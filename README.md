@@ -65,7 +65,15 @@ Les principaux attributs incluent :
 ---
 
 ## ▶️ Exécution du projet
-1. Cloner ce dépôt :  
+1. Venv :
+   ```bash
+   python -m venv venv
+   source venv/bin/activate   # sous Linux/Mac
+   venv\Scripts\activate      # sous Windows
+2. Cloner ce dépôt :
+
    ```bash
    git clone https://github.com/username/data-analysis-alcohol-school.git
    cd data-analysis-alcohol-school
+
+
