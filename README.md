@@ -27,15 +27,6 @@ Le projet est organisé en 4 parties principales :
    - Analyse de corrélation  
    - Extraction et traitement d’échantillons  
 
-3. **Rapport (R)** :  
-   - Description du sujet et des données  
-   - Méthodologie appliquée  
-   - Résultats obtenus et visualisations  
-   - Conclusions et interprétations  
-
-4. **Présentation (P)** :  
-   - Présentation orale des résultats et de la méthodologie  
-
 ---
 
 ## 📊 Jeux de données
